@@ -1,0 +1,22 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "An simple tracker application for exploring js based back-end and front-end applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aruvalli/Expense-Tracker.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aruvalli/Expense-Tracker/issues"
+  },
+  "homepage": "https://github.com/Aruvalli/Expense-Tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
